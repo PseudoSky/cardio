@@ -15,17 +15,17 @@
   },
   "license": "MIT",
   "dependencies": {
-    "assetgraph": "1.11.1",
-    "coffee-script": "~1.4.0",
-    "colors": "~0.6.0",
-    "css-explain": "~0.1.0",
-    "escomplex-js": "^0.1.2",
+    "assetgraph": "*",
+    "coffee-script": "*",
+    "colors": "*",
+    "css-explain": "josh/css-explain",
+    "escomplex-js": "*",
     "less": "*",
     "mime": "~1.2.9",
     "onecolor": "^2.3.4",
     "optimist": "~0.3.5",
-    "stylus": "~0.32.0",
-    "underscore": "~1.4.4",
+    "stylus": "*",
+    "underscore": "*",
     "urltools": "0.2.0"
   }
 }
